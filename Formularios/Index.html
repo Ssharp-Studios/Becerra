@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datos personales</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+
+<body>
+    <center>
+        <h1>Datos Personales</h1>
+    </center>
+    <form action="resultado.html" method="post">
+
+        <table class="table" border="1">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Tipo</th>
+                    <th>Valor</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td><label>Cedula</label></td>
+                    <td>
+                        <input type="number" name="txtCedula" id="txtCedula" placeholder="Ingrese su cedula">
+                    </td>
+                </tr>
+                <tr>
+                    <td><label>Nombre</label></td>
+                    <td>
+                        <input type="text" name="txtNombre" id="txtNombre">
+                    </td>
+                </tr>
+                <tr>
+                    <td><label>Telefono</label></td>
+                    <td>
+                        <input type="number" name="txtTelefono" id="txtTelefono">
+                    </td>
+                </tr>
+                <tr>
+                    <td><label>Correo</label></td>
+                    <td>
+                        <input type="email" name="txtMail" id="txtMail">
+                    </td>
+                </tr>
+                <tr>
+                    <td><label>Fecha de nacimiento</label></td>
+                    <td>
+                        <input type="date" name="txtFecha" id="txtFecha">
+                    </td>
+                </tr>
+                <tr>
+                    <td><label>Color favorito</label></td>
+                    <td>
+                        <input type="color" name="txtColorFav" id="txtColorFav">
+                    </td>
+                </tr>
+                <tr>
+                    <td><label>Pais de nacimiento</label></td>
+                    <td>
+                        <select name="cboPais" id="cboPais">
+                            <option value="0">Selecciona uno</option>
+                            <option value="1">Colombia</option>
+                            <option value="2">Venezuela</option>
+                            <option value="3">Panama</option>
+                            <option value="4">USA</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td><label>Hobby</label></td>
+                    <td>
+                        <input type="checkbox" name="chkHobbie" id="chkHobbie"> Futbol
+                        <input type="checkbox" name="chkProgramar" id="chkProgramar"> Programar
+                        <input type="checkbox" name="chkBasket" id="chkBasket"> Basketball
+                        <input type="checkbox" name="chkPolitica" id="chkPolitica"> Politica
+                    </td>
+                </tr>
+                <tr>
+                    <td><label>Sexo</label></td>
+                    <td>
+                        <div>
+                            <input type="radio" id="huey" name="drone" value="huey" checked>
+                            <label for="huey">Masculino</label>
+                        </div>
+
+                        <div>
+                            <input type="radio" id="dewey" name="drone" value="dewey">
+                            <label for="dewey">Femenino</label>
+                        </div>
+
+                        <div>
+                            <input type="radio" id="louie" name="drone" value="louie">
+                            <label for="louie">No me identiFICO</label>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td><label>Edad</label></td>
+                    <td>
+                        <input type="number" name="txtEdad" id="txtEdad" min="0" max="200">
+                    </td>
+                </tr>
+                <tr>
+                    <td><label>Descripcion</label></td>
+                    <td>
+                        <textarea name="txtDescrib" class="input-group-text" id="txtDescrib" cols="30"
+                            rows="10"></textarea>
+                    </td>
+                </tr>
+            </tbody>
+
+        </table>
+        <center>
+            <input type="submit" value="Aceptar" class="btn btn-success">
+            <button type="reset" class="btn btn-info">Limpiar</button>
+            <br>
+        </center>
+
+    </form>
+</body>
+
+</html>

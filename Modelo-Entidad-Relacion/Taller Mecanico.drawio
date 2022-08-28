@@ -1,0 +1,549 @@
+<mxfile host="65bd71144e">
+    <diagram id="d7yDl_tExvZpRFQlxXwV" name="Página-1">
+        <mxGraphModel dx="2622" dy="1844" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="CLIENTE" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="462" y="-447" width="180" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="2" vertex="1">
+                    <mxGeometry y="30" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="3" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="DNI" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="3" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="2" vertex="1">
+                    <mxGeometry y="60" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="6" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="NOMBRE" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="6" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="2" vertex="1">
+                    <mxGeometry y="90" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="9" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="APELLIDO" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="9" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="2" vertex="1">
+                    <mxGeometry y="120" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="12" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="DIRECCION" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="12" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="2" vertex="1">
+                    <mxGeometry y="150" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="16" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="TELEFONO" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="16" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="VEHICULO" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="-315" width="180" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="22" vertex="1">
+                    <mxGeometry y="30" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="23" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" value="ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="23" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="22" vertex="1">
+                    <mxGeometry y="60" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="26" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="MATRICULA" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="26" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="22" vertex="1">
+                    <mxGeometry y="90" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="29" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="31" value="MODELO" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="29" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="32" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="22" vertex="1">
+                    <mxGeometry y="120" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="32" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="34" value="COLOR" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="32" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="35" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#60a917;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fontColor=#ffffff;strokeColor=#2D7600;sketch=1;" parent="22" vertex="1">
+                    <mxGeometry y="150" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="35" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="37" value="CLIENTE" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fontColor=#ffffff;strokeColor=#2D7600;" parent="35" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="38" value="CITA" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="-139" y="-123" width="180" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="38" vertex="1">
+                    <mxGeometry y="30" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="39" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="41" value="ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="39" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="42" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="38" vertex="1">
+                    <mxGeometry y="60" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="42" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="44" value="INGRESO" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="42" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="45" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="38" vertex="1">
+                    <mxGeometry y="90" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="45" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="47" value="HORA" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="45" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="67" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#d80073;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fontColor=#ffffff;strokeColor=#A50040;sketch=1;" parent="38" vertex="1">
+                    <mxGeometry y="120" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="67" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="69" value="EVALUADOR" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="67" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="48" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fontColor=#ffffff;strokeColor=#006EAF;sketch=1;" parent="38" vertex="1">
+                    <mxGeometry y="150" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="48" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="50" value="VEHICULO" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="48" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="54" value="MECANICO" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
+                    <mxGeometry x="473" y="25" width="180" height="123" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="54" vertex="1">
+                    <mxGeometry y="30" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="55" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="57" value="ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="55" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="58" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="54" vertex="1">
+                    <mxGeometry y="60" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="58" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="60" value="NOMBRE" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="58" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="73" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="54" vertex="1">
+                    <mxGeometry y="90" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="73" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75" value="DNI" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="73" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="76" value="REPARACION" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=1;sketch=0;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+                    <mxGeometry x="476" y="-151" width="180" height="122" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="76" vertex="1">
+                    <mxGeometry y="30" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="77" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="79" value="ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="77" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="80" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#6a00ff;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fontColor=#ffffff;strokeColor=#3700CC;" parent="76" vertex="1">
+                    <mxGeometry y="60" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="80" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="82" value="ID_CITA" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="80" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="83" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#d80073;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fontColor=#ffffff;strokeColor=#A50040;" parent="76" vertex="1">
+                    <mxGeometry y="90" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="83" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="85" value="MECANICO" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="83" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="95" value="REPUESTOS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=1;sketch=0;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+                    <mxGeometry x="-183" y="139" width="180" height="123" as="geometry"/>
+                </mxCell>
+                <mxCell id="96" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=0;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="95" vertex="1">
+                    <mxGeometry y="30" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="97" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;rounded=1;sketch=0;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="96" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="98" value="ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;rounded=1;sketch=0;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="96" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="99" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=0;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="95" vertex="1">
+                    <mxGeometry y="60" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="100" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;rounded=1;sketch=0;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="99" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="101" value="DESCRIPCION" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;sketch=0;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="99" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="102" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=0;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="95" vertex="1">
+                    <mxGeometry y="90" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="103" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;rounded=1;sketch=0;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="102" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="104" value="PRECIO" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;sketch=0;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="102" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="111" value="RESPUESTO_VEHICULO" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=1;sketch=0;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
+                    <mxGeometry x="-422" y="32" width="180" height="122" as="geometry"/>
+                </mxCell>
+                <mxCell id="112" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=0;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="111" vertex="1">
+                    <mxGeometry y="30" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="113" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;rounded=1;sketch=0;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="112" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="114" value="ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;rounded=1;sketch=0;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="112" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="115" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#6a00ff;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fontColor=#ffffff;strokeColor=#3700CC;" parent="111" vertex="1">
+                    <mxGeometry y="60" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="116" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;rounded=1;sketch=0;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="115" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="117" value="ID_CITA" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;sketch=0;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="115" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="118" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#76608a;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fontColor=#ffffff;strokeColor=#432D57;" parent="111" vertex="1">
+                    <mxGeometry y="90" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="119" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;rounded=1;sketch=0;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="118" vertex="1">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="120" value="ID_REPUESTO" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;sketch=0;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" parent="118" vertex="1">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="124" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3" target="35" edge="1">
+                    <mxGeometry width="100" height="100" relative="1" as="geometry">
+                        <mxPoint x="219" y="144" as="sourcePoint"/>
+                        <mxPoint x="319" y="44" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="127" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="55" target="67" edge="1">
+                    <mxGeometry width="100" height="100" relative="1" as="geometry">
+                        <mxPoint x="178" y="362" as="sourcePoint"/>
+                        <mxPoint x="278" y="262" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="128" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="39" target="80" edge="1">
+                    <mxGeometry width="100" height="100" relative="1" as="geometry">
+                        <mxPoint x="161" y="335" as="sourcePoint"/>
+                        <mxPoint x="261" y="235" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="129" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=ERmany;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="55" target="83" edge="1">
+                    <mxGeometry width="100" height="100" relative="1" as="geometry">
+                        <mxPoint x="99" y="463" as="sourcePoint"/>
+                        <mxPoint x="199" y="363" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="690" y="3"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="132" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="23" target="48" edge="1">
+                    <mxGeometry width="100" height="100" relative="1" as="geometry">
+                        <mxPoint x="59" y="427" as="sourcePoint"/>
+                        <mxPoint x="-118" y="462" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="133" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="39" target="115" edge="1">
+                    <mxGeometry width="100" height="100" relative="1" as="geometry">
+                        <mxPoint x="-248" y="458" as="sourcePoint"/>
+                        <mxPoint x="-148" y="358" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="135" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="96" target="118" edge="1">
+                    <mxGeometry width="100" height="100" relative="1" as="geometry">
+                        <mxPoint x="-104" y="285" as="sourcePoint"/>
+                        <mxPoint x="-102" y="319" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="136" value="FACTURA" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="-124" y="-433" width="180" height="153" as="geometry"/>
+                </mxCell>
+                <mxCell id="137" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="136">
+                    <mxGeometry y="30" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="138" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="137">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="139" value="ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="137">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="140" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="136">
+                    <mxGeometry y="60" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="141" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="140">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="142" value="TOTAL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="140">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="143" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="136">
+                    <mxGeometry y="90" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="144" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="143">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="145" value="FECHA" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="143">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="146" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#6a00ff;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#ffffff;strokeColor=#3700CC;sketch=1;" vertex="1" parent="136">
+                    <mxGeometry y="120" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="147" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="146">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="148" value="CITA" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="146">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="149" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=ERmany;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;elbow=vertical;" edge="1" parent="1" source="39" target="146">
+                    <mxGeometry width="100" height="100" relative="1" as="geometry">
+                        <mxPoint x="106" y="335" as="sourcePoint"/>
+                        <mxPoint x="206" y="235" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="86" y="-188"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="150" value="COLOR" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="-657" width="180" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="151" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" vertex="1" parent="150">
+                    <mxGeometry y="30" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="152" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" vertex="1" parent="151">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="153" value="ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" vertex="1" parent="151">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="154" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" vertex="1" parent="150">
+                    <mxGeometry y="60" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="155" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" vertex="1" parent="154">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="156" value="DESCRIPCION" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" vertex="1" parent="154">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="166" value="MODELO" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+                    <mxGeometry x="252" y="-657" width="180" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="167" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" vertex="1" parent="166">
+                    <mxGeometry y="30" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="168" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" vertex="1" parent="167">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="169" value="ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" vertex="1" parent="167">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="170" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" vertex="1" parent="166">
+                    <mxGeometry y="60" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="171" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" vertex="1" parent="170">
+                    <mxGeometry width="30" height="30" as="geometry">
+                        <mxRectangle width="30" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="172" value="DESCRIPCION" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;sketch=1;fontFamily=Quicksand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DQuicksand;" vertex="1" parent="170">
+                    <mxGeometry x="30" width="150" height="30" as="geometry">
+                        <mxRectangle width="150" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

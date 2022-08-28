@@ -1,0 +1,43 @@
+*{
+    border-radius:10px;
+}
+header{
+    width: 90%;
+    height: 90px;
+    background-color: brown;
+    margin: 50px;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+nav{
+    width: 220px;
+    height: 450px;
+    background-color: brown;
+    margin: 50px;
+    float: left;
+}
+article{
+    width: 40%;
+    height: 90px;
+    background-color: brown;
+    float: left;
+    margin: 50px;
+}
+aside{
+    width: 220px;
+    height: 450px;
+    background-color: brown;
+    margin: 50px;
+    float: right;
+}
+footer{
+    width: 90%;
+    height: 90px;
+    background-color: brown;
+    margin: 50px;
+    float: left;
+}
